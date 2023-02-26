@@ -102,4 +102,4 @@ const phoneDetais= phone =>{
 
 
 
-// loadPhone()
+loadPhone('apple')
